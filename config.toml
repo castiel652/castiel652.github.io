@@ -1,4 +1,20 @@
 baseURL = 'https://castiel652.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Random thoughts'
 theme = 'paper'
+
+[params]
+    name = 'Castiel You'
+    bio = 'Anyhing that comes to my mind'
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 10
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 10
