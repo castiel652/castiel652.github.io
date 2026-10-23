@@ -2,3 +2,8 @@ baseURL: https://castiel652.github.io/
 locale: en-GB
 title: Intrusive Thoughts
 theme: ["PaperMod"]
+
+params:
+  ShowReadingTime: true
+  showtoc: true
+  tocopen: true
