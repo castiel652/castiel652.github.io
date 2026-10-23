@@ -1,6 +1,5 @@
 ---
 date: '2026-10-18T15:03:29+08:00'
-draft: true
 title: 'Fixing non-DBDC mt7986'
 ---
 
