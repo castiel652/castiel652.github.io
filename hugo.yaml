@@ -7,3 +7,7 @@ params:
   ShowReadingTime: true
   showtoc: true
   tocopen: true
+
+permalinks:
+  page:
+    articles: /blog/:year/:month/:title/
