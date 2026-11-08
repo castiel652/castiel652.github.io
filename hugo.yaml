@@ -9,5 +9,4 @@ params:
   tocopen: true
 
 permalinks:
-  page:
-    articles: /blog/:year/:month/:title/
+  posts: /blog/:year/:month/:title/
